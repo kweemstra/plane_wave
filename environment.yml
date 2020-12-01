@@ -1,0 +1,14 @@
+name: pfg
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - jupyter
+  - notebook
+  - numpy
+  - scipy
+  - matplotlib
+  - ipywidgets
+  - ipython
+prefix: /Users/kweemstra/miniconda3/envs/pfg
